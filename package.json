@@ -1,0 +1,7 @@
+{
+  "name": "staler-call-server",
+  "private": true,
+  "type": "module",
+  "description": "Hands out short-lived TURN credentials so S-Taler calls connect on any network.",
+  "engines": { "node": ">=20" }
+}
